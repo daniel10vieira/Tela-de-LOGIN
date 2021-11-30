@@ -1,3 +1,13 @@
-# web-platform-fwcecc
+# Tela de Login
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-fwcecc)
+
+<img src="Tela.png" alt="exemplo imagem">
+
+> Este projeto foi desenvolvido para treinamento das habilidade em HTML e CSS.
+
+### Ajustes e melhorias
+
+Tecnologias usadas no desnvolvimento do projeto:
+
+- [x] HTML
+- [x] CSS
